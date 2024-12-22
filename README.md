@@ -1,6 +1,6 @@
 #  D-Fire: an image dataset for fire and smoke detection
 
-**Authors:** Researchers from Gaia, solutions on demand ([GAIA](https://www.gaiasd.com/))
+
 
 ## About
 
