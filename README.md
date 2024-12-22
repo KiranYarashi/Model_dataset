@@ -50,5 +50,5 @@ However, we provide the yolo2pixel function that converts coordinates in YOLO fo
 * [Training, validation and test sets](https://drive.google.com/drive/folders/1Np_FC3MuuFJgV-z0FmZwS9YzsTKdyRGJ?usp=sharing).
 * [Some surveillance videos](https://drive.google.com/drive/folders/1P5TNDP7ZrWpIZ4v_Aav5hf3S9UII2ZKA?usp=sharing). 
 * [Some models trained with the D-Fire dataset](https://github.com/pedbrgs/Fire-Detection).
-* For more surveillance videos, request your registration on our environmental monitoring website ["Apaga o Fogo!" (Put out the Fire!)](https://apagaofogo.eco.br/).
+
 
